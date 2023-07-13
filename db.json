@@ -6,7 +6,7 @@
       "email": "john@email.com",
       "photo": "bfrger6g46reb16rb61rebrb.png",
       "role": "ROLE_USER",
-      "genre" "male",
+      "genre": "male",
       "activate": true
     }
   ]
